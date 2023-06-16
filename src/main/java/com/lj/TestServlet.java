@@ -11,7 +11,7 @@ import java.io.IOException;
  * @Auther:LJ
  * @Date: 2023/6/13 15:54
  */
-@WebServlet("/hello")
+//@WebServlet("/hello")
 public class TestServlet extends HttpServlet {
 
     @Override
